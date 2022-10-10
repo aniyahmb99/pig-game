@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-This is fun and simply game developed with JavaScript.
+This is fun and simple game developed with JavaScript.
 
 ## Table of Contents
 
