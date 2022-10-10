@@ -17,7 +17,7 @@ This is fun and simple game developed with JavaScript.
 
 ## Usage
 
-Player can play the game by clicking the "roll dice" button which will turn the dice. Then the player can either hold that number or keep rolling the dice. If you spin a 0, your score will drop down to 0. First player to reach wins that round. You can press the "new game" button to clear and start a new round.
+Player can play the game by clicking the "roll dice" button which will turn the dice. Then the player can either hold that number or keep rolling the dice. If you spin a 0, your score will drop down to 0. First player to reach 100 wins that round. You can press the "new game" button to clear and start a new round.
 
 ### Deployment
 
