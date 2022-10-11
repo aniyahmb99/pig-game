@@ -1,5 +1,10 @@
 # PIG GAME
 
+## Screenshots
+
+Home Page
+![image](https://user-images.githubusercontent.com/96402809/195168357-ed6aee4b-a2ee-4db1-bb37-8cf76556c450.png)
+
 ## DESCRIPTION
 
 This is fun and simple game developed with JavaScript.
@@ -26,11 +31,6 @@ Player can play the game by clicking the "roll dice" button which will turn the 
 ## Technologies
 
 HTML, CSS, JavaScript
-
-## Screenshots
-
-Home Page
-![image]()
 
 ## Contributors
 
